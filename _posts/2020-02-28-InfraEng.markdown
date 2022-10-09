@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Infrastruture Engineer"
+date:   2020-02-18 00:08:39 +00:00
+date2:   2022-06-30 18:08:39 +00:00
+image: images/NCTU.svg.png
+categories: Work 
+course: "NYCU CC"
+author: "Lee, Hsuan"
+subtitle: "Thin Client Systems & Cloud Computing"
+---
+Accountable for Linux/BSD workstations, virtual machines, and network equipment that were used by more than 1000 professors and students in the computer science department.
+Built and maintained the private repository server and reduced security issues.
+Reduced 35% of the software development life cycle by implementing a CI/CD pipeline.
+

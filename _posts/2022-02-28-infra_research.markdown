@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "A Dynamic on-demand Virtual Customer Premises Equipment Infrastructure"
+date:   2022-02-28 22:21:59 +00:00
+image: images/kubernetes.png
+categories: research
+author: "Lee Hsuan"
+authors: "<strong>Lee Hsuan</strong>"
+venue: "National Science Council"
+arxiv: https://arxiv.org/abs/1904.05537
+slides: /pdfs/crv19-slides.pdf
+---
+
+This research develops a “Dynamic On-demand Infrastructure for Virtualized Client Equipment”, based on ETSI Network Function Virtualization (NFV) architecture, and conforms to BBF TR317 standard of Network Enhanced Residential Gateway (NERG).

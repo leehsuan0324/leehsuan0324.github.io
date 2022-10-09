@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Part-time Engineer"
+date:   2019-07-01 00:08:39 +00:00
+date2:   2019-08-31 18:08:39 +00:00
+image: images/NRB.png
+categories: Work 
+course: "NEEDLE ROLLER BEARING CO., LTD."
+author: "Lee, Hsuan"
+subtitle: "Thin Client Systems & Cloud Computing"
+---
+Fulfilled intelligent manufacturing by thin client systems and cloud computing, saving 60% more hardware cost compared to traditional solutions.

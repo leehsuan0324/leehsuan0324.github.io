@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Network Services Servers"
+date:   2020-06-23 18:08:39 +00:00
+image: images/NASA.jpg
+categories: NYCU
+course: " CS"
+author: "Lee, Hsuan"
+subtitle: "Constructed a cluster offering DNS ,Mail , FTP and Web services."
+---
+Constructed a cluster offering DNS ,Mail , FTP and Web services.
+Enhanced the administrative scalability by using LDAP to manage accounts on servers.
+Use ZFS as a file system, automating backup and enabling recovery.
+Implemented a reverse proxy server to block suspicious IP.

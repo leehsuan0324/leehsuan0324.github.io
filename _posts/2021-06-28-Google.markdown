@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Data Center Intern"
+date:   2021-06-28 00:08:39 +00:00
+date2:   2021-09-24 00:08:39 +00:00
+image: images/google.png
+categories: Work 
+course: "Google Inc."
+author: "Lee, Hsuan"
+subtitle: ""
+---
+Maintained systems and network in the biggest Google Data Center in Asia.
+Managed more than 300,000 servers in the data center with log systems and an automatic pipeline.
+Automated technicians’ routine with a low-cost embedded system and full-stack application on GCP, reducing 10% of the workload.
+
