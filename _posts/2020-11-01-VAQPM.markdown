@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Visualized Air Quality and Pothole Map"
+date:   2020-11-01 00:08:00 +00:00
+image: tn/images/Map.png
+categories:  NYCU
+course: " HackMeiChu (Hackathon)"
+author: "Lee Hsuan"
+authors: "<strong>Lee Hsuan</strong>"
+venue: "Second place in Hack Group"
+subtitle: "Visualized Air Quality and Pothole Map"
+---
+Led a team of five engineers in the development of a Visualized Air Quality and Pothole Map in HackMeiChu (Hackathon), leveraging a real-time C++ embedded system for data collection. The system is designed for high traffic, capable of processing over **10,000** requests per second.

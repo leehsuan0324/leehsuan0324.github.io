@@ -1,0 +1,2 @@
+I"+<p>Developed a high-performance <strong>Simple Distributed File System</strong> using Golang, implementing the SWIM protocol for machine failure detection and quorum for data consistency. The system includes an auto-recovery feature that can withstand up to three simultaneous machine failures.</p>
+:ET

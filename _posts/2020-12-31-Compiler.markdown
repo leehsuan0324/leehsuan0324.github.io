@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Data Structure & Programming"
+date:   2020-12-30 18:08:39 +00:00
+image: tn/images/compiler.png
+categories: NYCU
+course: " CS"
+author: "Lee, Hsuan"
+---
+Implemented a compiler for a new programming language made by the professor.
+Using self-made symbol tables, combining a hash table and pointers to reduce **70%** of searching time compared to simple linked lists.

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "System Engineer Intern Engineer"
+date:   2019-07-01 00:08:39 +00:00
+date2:   2019-08-31 18:08:39 +00:00
+image: tn/images/NRB.png
+categories: Work 
+course: "NEEDLE ROLLER BEARING CO., LTD."
+author: "Lee, Hsuan"
+subtitle: "Thin Client Systems & Cloud Computing"
+---
+Modernized factories by implementing a local-cloud-based solution with virtual machines (VMs) and Raspberry Pi for machine control, which can solve the issue of reduced computer lifespan in a factory environment, resulting in reducing **60%** of hardware cost.
