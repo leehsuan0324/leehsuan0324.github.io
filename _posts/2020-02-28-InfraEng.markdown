@@ -9,7 +9,8 @@ course: "NYCU CC"
 author: "Lee, Hsuan"
 subtitle: "Thin Client Systems & Cloud Computing"
 ---
-Accountable for Linux/BSD workstations, virtual machines, and network equipment that were used by more than 1000 professors and students in the computer science department.
-Built and maintained the private repository server and reduced security issues.
-Reduced 35% of the software development life cycle by implementing a CI/CD pipeline.
+Constructed a local repository server with a CI/CD pipeline, placing more than 30 customized packages for over 100 servers in the computing center. This strategic optimization streamlined processes and resulted in a 35% reduction in the software development life cycle.
+
+Oversaw the management of Linux/BSD workstations, Kubernetes clusters, and Cisco & Juniper network equipments that were used by more than 1000 professors and students in the computer science department.
+
 

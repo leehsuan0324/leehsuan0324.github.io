@@ -12,3 +12,5 @@ slides: /pdfs/crv19-slides.pdf
 ---
 
 This research develops a “Dynamic On-demand Infrastructure for Virtualized Client Equipment”, based on ETSI Network Function Virtualization (NFV) architecture, and conforms to BBF TR317 standard of Network Enhanced Residential Gateway (NERG).
+
+The containerized-base virtual customer premises equipment (vCPE) infrastructure leveraging Kubernetes and Software Define Network (SDN) to improve availability, flexibility, and manageability, achieving a 75% reduction in hardware costs for telecom companies.

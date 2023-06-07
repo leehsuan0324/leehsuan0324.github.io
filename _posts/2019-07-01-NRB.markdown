@@ -9,4 +9,4 @@ course: "NEEDLE ROLLER BEARING CO., LTD."
 author: "Lee, Hsuan"
 subtitle: "Thin Client Systems & Cloud Computing"
 ---
-Fulfilled intelligent manufacturing by thin client systems and cloud computing, saving 60% more hardware cost compared to traditional solutions.
+Modernized factories by implementing a local-cloud-based solution with virtual machines (VMs) and Raspberry Pi for machine control, which can solve the issue of reduced computer lifespan in a factory environment, resulting in reducing 60% of hardware cost.
