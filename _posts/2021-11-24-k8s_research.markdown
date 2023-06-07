@@ -8,4 +8,4 @@ author: "Lee Hsuan"
 authors: "<strong>Lee Hsuan</strong>"
 venue: "National Yang Ming Chiao Tung University"
 ---
-Developed a containerized-base virtual customer premises equipment (vCPE) infrastructure leveraging Kubernetes and Software Define Network (SDN) to improve availability, flexibility, and manageability, achieving a 75% reduction in hardware costs for telecom companies.
+Research a new K8s architecture without single-point failure to solve the VXLAN NAT traversal problem.

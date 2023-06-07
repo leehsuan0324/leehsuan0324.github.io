@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Simple Distributed File System"
+date:   2023-05-01 00:08:00 +00:00
+date2:  2019-05-31 00:00:00 +00:00
+image: images/kubernetes.png
+categories: NYCU
+author: "Lee Hsuan"
+authors: "<strong>Lee Hsuan</strong>"
+subtitle: "Simple Distributed File System"
+---
+Developed a high-performance Simple Distributed File System using Golang, implementing the SWIM protocol for machine failure detection and quorum for data consistency. The system includes an auto-recovery feature that can withstand up to three simultaneous machine failures.
