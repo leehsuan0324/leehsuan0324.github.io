@@ -9,4 +9,4 @@ author: "Lee Hsuan"
 authors: "<strong>Lee Hsuan</strong>"
 subtitle: "Simple Distributed File System"
 ---
-Developed a high-performance Simple Distributed File System using Golang, implementing the SWIM protocol for machine failure detection and quorum for data consistency. The system includes an auto-recovery feature that can withstand up to three simultaneous machine failures.
+Developed a high-performance ==Simple Distributed File System== using Golang, implementing the SWIM protocol for machine failure detection and quorum for data consistency. The system includes an auto-recovery feature that can withstand up to three simultaneous machine failures.

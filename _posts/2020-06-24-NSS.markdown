@@ -8,7 +8,4 @@ course: " CS"
 author: "Lee, Hsuan"
 subtitle: "Constructed a cluster offering DNS ,Mail , FTP and Web services."
 ---
-Constructed a cluster offering DNS ,Mail , FTP and Web services.
-Enhanced the administrative scalability by using LDAP to manage accounts on servers.
-Use ZFS as a file system, automating backup and enabling recovery.
-Implemented a reverse proxy server to block suspicious IP.
+Built a cluster providing DHCP, DNS, Mail, FTP, and Web services, improving administrative scalability through LDAP for account management. Leveraged ZFS for automated backups and recovery, and implemented a reverse proxy server to block suspicious IPs.
